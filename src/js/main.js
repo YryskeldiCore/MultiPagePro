@@ -48,38 +48,3 @@ window.addEventListener('DOMContentLoaded', () => {
     new Accordion('.module__info-show .plus').init();
     new Download('.download').init();
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// class Milana {
-//     constructor(tall, bigfoot){
-//         this.tall = tall;
-//         this.bigfoot = bigfoot;
-//     }
-
-//     run(){
-//         console.log('Milana runs!!');
-//     }
-
-//     speak(){
-//         console.log('Milana speaks!!');
-//     }
-// }
-
-// const Milana1 = new Milana('180', '45');
-// const Milana2 = new Milana('185', '54');
-
-// console.log(Milana1.run());
-// console.log(Milana2);
